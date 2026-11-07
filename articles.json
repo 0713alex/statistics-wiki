@@ -1,0 +1,44 @@
+[
+  {
+    "id": "hypothesis-testing",
+    "title": "Hypothesis Testing",
+    "zh": "假設檢定",
+    "description": "H₀、H₁、p-value 與統計決策",
+    "category": "inference",
+    "path": "content/inference/hypothesis-testing.md",
+    "tags": [
+      "inference",
+      "p-value"
+    ],
+    "order": 1,
+    "icon": "∑"
+  },
+  {
+    "id": "logistic-regression",
+    "title": "Logistic Regression",
+    "zh": "羅吉斯迴歸",
+    "description": "二元反應變數、Odds Ratio 與 SAS",
+    "category": "regression",
+    "path": "content/regression/logistic-regression.md",
+    "tags": [
+      "regression",
+      "odds-ratio"
+    ],
+    "order": 1,
+    "icon": "ƒ"
+  },
+  {
+    "id": "roc-curve",
+    "title": "ROC Curve & AUC",
+    "zh": "ROC 曲線與 AUC",
+    "description": "Sensitivity、Specificity 與分類評估",
+    "category": "evaluation",
+    "path": "content/evaluation/roc-curve.md",
+    "tags": [
+      "evaluation",
+      "classification"
+    ],
+    "order": 1,
+    "icon": "↗"
+  }
+]
